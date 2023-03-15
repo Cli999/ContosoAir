@@ -1,4 +1,7 @@
+[![Build Status](https://dev.azure.com/wenli0790/ContosoAir/_apis/build/status/Cli999.ContosoAir?branchName=master)](https://dev.azure.com/wenli0790/ContosoAir/_build/latest?definitionId=2&branchName=master)
+
 # add Status Badge for excercise --"chuck Note"
+
 
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
